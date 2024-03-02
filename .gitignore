@@ -3,6 +3,8 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 
+/web/WEB-INF/lib/
+
 ### Eclipse ###
 .apt_generated
 .classpath
